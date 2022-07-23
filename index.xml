@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>mahaoliang.tech</title>
+        <link>https://mahaoliang.tech/</link>
+        <description>macOS,gaming,geek</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>me@mahaoliang.tech (mahaoliang)</managingEditor>
+            <webMaster>me@mahaoliang.tech (mahaoliang)</webMaster><lastBuildDate>Sat, 23 Jul 2022 14:51:18 &#43;0800</lastBuildDate>
+            <atom:link href="https://mahaoliang.tech/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>macOS的系统建议设置</title>
+    <link>https://mahaoliang.tech/macos-setup/</link>
+    <pubDate>Sat, 23 Jul 2022 14:51:18 &#43;0800</pubDate>
+    <author>mahaoliang</author>
+    <guid>https://mahaoliang.tech/macos-setup/</guid>
+    <description><![CDATA[触控板设置 单指轻点代表单击。拿到MacBook第一个要设置的，对它轻柔一些，单击毫不费力 四指左右轻扫，桌面间切换 四指向上，进入调度中心。“调]]></description>
+</item>
+</channel>
+</rss>
