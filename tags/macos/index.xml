@@ -4,7 +4,15 @@
         <link>https://mahaoliang.tech/tags/macos/</link>
         <description>macos - Tag - mahaoliang.tech</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>me@mahaoliang.tech (mahaoliang)</managingEditor>
-            <webMaster>me@mahaoliang.tech (mahaoliang)</webMaster><lastBuildDate>Sat, 23 Jul 2022 15:26:12 &#43;0800</lastBuildDate><atom:link href="https://mahaoliang.tech/tags/macos/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>me@mahaoliang.tech (mahaoliang)</webMaster><lastBuildDate>Thu, 29 Sep 2022 22:06:18 &#43;0800</lastBuildDate><atom:link href="https://mahaoliang.tech/tags/macos/" rel="self" type="application/rss+xml" /><item>
+    <title>1Password在macOS和iOS上的使用技巧</title>
+    <link>https://mahaoliang.tech/1password/</link>
+    <pubDate>Thu, 29 Sep 2022 22:06:18 &#43;0800</pubDate>
+    <author>mahaoliang</author>
+    <guid>https://mahaoliang.tech/1password/</guid>
+    <description><![CDATA[1Password的最大优势是跨平台，不管是苹果系的iOS，macOS，还是Google的Android，微软的Windows，以及Linu]]></description>
+</item>
+<item>
     <title>打造一个漂亮的命令行终端</title>
     <link>https://mahaoliang.tech/terminal/</link>
     <pubDate>Sat, 23 Jul 2022 15:26:12 &#43;0800</pubDate>
